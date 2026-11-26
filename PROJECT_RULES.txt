@@ -1,0 +1,12 @@
+COLONY NATIVE ANDROID
+
+1. Standalone native Android application.
+2. No WebView.
+3. No Chrome or browser dependency.
+4. Preserve original Colony UI and feature behavior.
+5. Preserve original web application and backend.
+6. Kotlin + Jetpack Compose.
+7. Native Android camera and microphone.
+8. Native WebRTC media engine.
+9. Existing Flask and WebSocket backend retained.
+10. No feature removal or redesign without approval.
